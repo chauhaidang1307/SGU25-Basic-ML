@@ -1,5 +1,5 @@
 git status
-git add -m
-git commit -a "text"
+git add .                # thêm tất cả file thay đổi
+git commit -m "thong diep"   # commit với message
 git push
 git push -force
