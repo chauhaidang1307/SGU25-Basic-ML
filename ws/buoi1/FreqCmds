@@ -4,3 +4,4 @@ git commit -m "thong diep"   # commit với message
 git push
 git push -force
 git pull
+git switch --oprhan
